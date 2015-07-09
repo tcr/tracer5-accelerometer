@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="113444 -117068.6 40064 24587.20000000001" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" stroke="#000">
+  <defs>
+    <rect x="-375" y="-400" width="750" height="800" id="tool-D11-pad-1001"/>
+    <rect x="-400" y="-375" width="800" height="750" id="tool-D12-pad-1002"/>
+    <rect x="-1016" y="-863.6" width="2032" height="1727.2" id="tool-D13-pad-1003"/>
+    <rect x="-1016" y="-863.6" width="2032" height="1727.2" rx="863.6" ry="863.6" id="tool-D14-pad-1004"/>
+    <rect x="-1016" y="-1016" width="2032" height="2032" id="tool-D15-pad-1005"/>
+    <rect x="-1016" y="-1016" width="2032" height="2032" rx="1016" ry="1016" id="tool-D16-pad-1006"/>
+    <rect x="-450" y="-250" width="900" height="500" id="tool-D17-pad-1007"/>
+    <rect x="-150" y="-375" width="300" height="750" rx="150" ry="150" id="tool-D18-pad-1008"/>
+    <rect x="-375" y="-150" width="750" height="300" rx="150" ry="150" id="tool-D19-pad-1009"/>
+    <rect x="-450" y="-450" width="900" height="900" id="tool-D20-pad-1010"/>
+    <rect x="-530" y="-325" width="1060" height="650" id="tool-D21-pad-1011"/>
+    <circle cx="0" cy="0" r="300" id="tool-D22-pad-1012"/>
+  </defs>
+  <g fill="currentColor" stroke="currentColor" transform="translate(0,-209550) scale(1,-1)">
+    <path stroke-width="250" fill="none" d="M 130810 -102933.5 L 130810 -104406" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 132334 -105930 L 131064 -104660" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 132864.75 -100878.75 L 130810 -102933.5" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 137137.25 -100878.75 L 138514 -99502" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 137137.25 -100878.75 L 132864.75 -100878.75" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 130810 -104406 L 131064 -104660" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 139270 -105025 L 140402.5 -105025" stroke="green" data-title="U1 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 140970 -101958 L 138514 -99502" stroke="green" data-title="IC1 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 140970 -104457.5 L 140970 -101958" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 140402.5 -105025 L 140970 -104457.5" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 138545 -103300 L 138545 -99533" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 138545 -99533 L 138514 -99502" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 138514 -97602 L 138514 -96032.5" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 138514 -96032.5 L 137719.5 -95238" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="400" fill="none" d="M 131572 -97802 L 131572 -95238" stroke="green" data-title="C2 / VCC"/>
+    <path stroke-width="400" fill="none" d="M 133604 -97802 L 131572 -97802" stroke="green" data-title="R2 / VCC"/>
+    <path stroke-width="400" fill="none" d="M 138514 -97602 L 138514 -99502" stroke="green" data-title="IC1 / VCC"/>
+    <path stroke-width="400" fill="none" d="M 131572 -95238 L 125107 -95238" stroke="green" data-title="C2 / VCC"/>
+    <path stroke-width="400" fill="none" d="M 125107 -95238 L 124460 -95885" stroke="green" data-title="J2 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 138430 -99718 L 138364 -99652" stroke="green" data-title="R3 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 136779 -100393.5 L 132588 -100393.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 137414 -99187 L 137414 -99758.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 136779 -98552 L 137414 -99187" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 137414 -99758.5 L 136779 -100393.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 129540 -103441.5 L 129540 -107124.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 132588 -100393.5 L 129540 -103441.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 133604 -103556.5 L 133604 -104584.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 133604 -106108.5 L 133604 -104584.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 133604 -106108.5 L 133604 -106170.602" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 133604 -106170.602 L 133031.102 -106743.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 133031.102 -106743.5 L 131318 -106743.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 131318 -106743.5 L 130937 -107124.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 130937 -107124.5 L 129540 -107124.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 133604 -103556.5 L 133719 -103441.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 136320 -104025 L 134302.5 -104025" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 134302.5 -104025 L 133719 -103441.5" stroke="green" data-title="C3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 129413 -107124.5 L 129540 -107124.5" stroke="green" data-title="J3 / GND"/>
+    <path stroke-width="250" fill="none" d="M 138938 -109156.5 L 143383 -104711.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 139902.5 -93738 L 133604 -93738" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 143383 -97218.5 L 139902.5 -93738" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 143383 -104711.5 L 143383 -97218.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 136320 -104074.998 L 136320 -104025" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 138545 -106250 L 138557 -107505.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 138938 -109156.5 L 138938 -107886.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 138557 -107505.5 L 138938 -107886.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 137545 -107501.5 L 136906 -108140.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 136906 -108140.5 L 136906 -109156.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 136906 -109156.5 L 137414 -109664.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 137414 -109664.5 L 138430 -109664.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 138430 -109664.5 L 138938 -109156.5" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="250" fill="none" d="M 137545 -107501.5 L 137545 -106250" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="400" fill="none" d="M 131572 -93738 L 124853 -93738" stroke="green" data-title="C2 / GND"/>
+    <path stroke-width="250" fill="none" d="M 138045 -103300 L 138045 -102294.5" stroke="green" data-title="C3 / NET-(C3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 134251 -101409.5 L 132219 -103441.5" stroke="green" data-title="C3 / NET-(C3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 137160 -101409.5 L 134251 -101409.5" stroke="green" data-title="C3 / NET-(C3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 138045 -102294.5 L 137160 -101409.5" stroke="green" data-title="C3 / NET-(C3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 137045 -103300 L 137045 -102437.5" stroke="green" data-title="VIA / SCL"/>
+    <path stroke-width="250" fill="none" d="M 137045 -102437.5 L 136779 -102171.5" stroke="green" data-title="VIA / SCL"/>
+    <path stroke-width="250" fill="none" d="M 131572 -99302 L 131711 -99302" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 131711 -99302 L 132397.5 -98615.5" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 135506.5 -97602 L 136314 -97602" stroke="green" data-title="IC1 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 134493 -98615.5 L 135506.5 -97602" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 132397.5 -98615.5 L 134493 -98615.5" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 131572 -99302 L 125337 -99302" stroke="green" data-title="R1 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 125337 -99302 L 124460 -98425" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 136210 -97602 L 136314 -97602" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 125083 -97802 L 124460 -98425" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 133604 -99302 L 132917.5 -99302" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 131254.5 -100965 L 124460 -100965" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 132917.5 -99302 L 131254.5 -100965" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 134806.5 -104525 L 136320 -104525" stroke="green" data-title="U1 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 134806.5 -104525 L 134366 -104965.5" stroke="green" data-title="VIA / SDA"/>
+    <path stroke-width="250" fill="none" d="M 133604 -99302 L 133356.498 -99302" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 133604 -99302 L 133298.5 -99302" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 136314 -99502 L 133804 -99502" stroke="green" data-title="IC1 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 133804 -99502 L 133604 -99302" stroke="green" data-title="R2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 136314 -99502 L 135956 -99502" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 136398 -99718 L 136464 -99652" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 138045 -106250 L 138045 -108525.5" stroke="green" data-title="U1 / INT1"/>
+    <path stroke-width="250" fill="none" d="M 138045 -108525.5 L 137922 -108648.5" stroke="green" data-title="U1 / INT1"/>
+    <path stroke-width="250" fill="none" d="M 137045 -107049 L 130429 -113665" stroke="green" data-title="J2 / INT2"/>
+    <path stroke-width="250" fill="none" d="M 137045 -106250 L 137045 -107049" stroke="green" data-title="U1 / INT2"/>
+    <path stroke-width="250" fill="none" d="M 130429 -113665 L 124460 -113665" stroke="green" data-title="J2 / INT2"/>
+    <path stroke-width="250" fill="none" d="M 129540 -109664.5 L 131064 -109664.5" stroke="green" data-title="J3 / NET-(J3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 132334 -108394.5 L 132334 -107430" stroke="green" data-title="R3 / NET-(J3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 131064 -109664.5 L 132334 -108394.5" stroke="green" data-title="J3 / NET-(J3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 136320 -105025 L 135386 -105025" stroke="green" data-title="U1 / NET-(J3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 132981 -107430 L 132334 -107430" stroke="green" data-title="J3 / NET-(J3-PAD1)"/>
+    <path stroke-width="250" fill="none" d="M 135386 -105025 L 132981 -107430" stroke="green" data-title="J3 / NET-(J3-PAD1)"/>
+    <use x="133604" y="-95238" xlink:href="#tool-D11-pad-1001" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="133604" y="-93738" xlink:href="#tool-D11-pad-1001" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="131572" y="-95238" xlink:href="#tool-D11-pad-1001" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="131572" y="-93738" xlink:href="#tool-D11-pad-1001" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="132219" y="-103441.5" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="133719" y="-103441.5" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-93345" xlink:href="#tool-D13-pad-1003" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-95885" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-98425" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-100965" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-103505" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-106045" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-108585" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-111125" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-113665" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-116205" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="129540" y="-109664.5" xlink:href="#tool-D15-pad-1005" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="129540" y="-107124.5" xlink:href="#tool-D16-pad-1006" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="131572" y="-97802" xlink:href="#tool-D17-pad-1007" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="131572" y="-99302" xlink:href="#tool-D17-pad-1007" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="133604" y="-97802" xlink:href="#tool-D17-pad-1007" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="133604" y="-99302" xlink:href="#tool-D17-pad-1007" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="132334" y="-105930" xlink:href="#tool-D17-pad-1007" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="132334" y="-107430" xlink:href="#tool-D17-pad-1007" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138545" y="-103300" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138045" y="-103300" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137545" y="-103300" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137045" y="-103300" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136320" y="-104025" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136320" y="-104525" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136320" y="-105025" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136320" y="-105525" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137045" y="-106250" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137545" y="-106250" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138045" y="-106250" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138545" y="-106250" xlink:href="#tool-D18-pad-1008" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="139270" y="-105525" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="139270" y="-105025" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="139270" y="-104525" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="139270" y="-104025" xlink:href="#tool-D19-pad-1009" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137345" y="-105225" xlink:href="#tool-D20-pad-1010" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138245" y="-105225" xlink:href="#tool-D20-pad-1010" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137345" y="-104325" xlink:href="#tool-D20-pad-1010" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138245" y="-104325" xlink:href="#tool-D20-pad-1010" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136314" y="-97602" xlink:href="#tool-D21-pad-1011" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136314" y="-98552" xlink:href="#tool-D21-pad-1011" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136314" y="-99502" xlink:href="#tool-D21-pad-1011" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138514" y="-99502" xlink:href="#tool-D21-pad-1011" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="138514" y="-97602" xlink:href="#tool-D21-pad-1011" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136779" y="-102171.5" xlink:href="#tool-D22-pad-1012" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="134366" y="-104965.5" xlink:href="#tool-D22-pad-1012" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137922" y="-108648.5" xlink:href="#tool-D22-pad-1012" fill="rgba(0, 0, 0, 0.5)"/>
+  </g>
+</svg>

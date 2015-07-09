@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="113444 -117068.6 40139 24587.20000000001" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" stroke="#000">
+  <defs>
+    <rect x="-1016" y="-863.6" width="2032" height="1727.2" id="tool-D11-pad-1001"/>
+    <rect x="-1016" y="-863.6" width="2032" height="1727.2" rx="863.6" ry="863.6" id="tool-D12-pad-1002"/>
+    <rect x="-1016" y="-1016" width="2032" height="2032" id="tool-D13-pad-1003"/>
+    <rect x="-1016" y="-1016" width="2032" height="2032" rx="1016" ry="1016" id="tool-D14-pad-1004"/>
+    <circle cx="0" cy="0" r="300" id="tool-D15-pad-1005"/>
+  </defs>
+  <g fill="currentColor" stroke="currentColor" transform="translate(0,-209550) scale(1,-1)">
+    <path stroke-width="400" fill="none" d="M 125063.25 -95281.75 L 124460 -95885" stroke="green" data-title="J2 / VCC"/>
+    <path stroke-width="250" fill="none" d="M 130238.5 -106426 L 132207 -106426" stroke="green" data-title="J2 / GND"/>
+    <path stroke-width="400" fill="none" d="M 132207 -106426 L 141478 -106426" stroke="green" data-title="U1 / GND"/>
+    <path stroke-width="400" fill="none" d="M 141478 -106426 L 143383 -104521" stroke="green" data-title="J2 / GND"/>
+    <path stroke-width="400" fill="none" d="M 143383 -104521 L 143383 -96901" stroke="green" data-title="J2 / GND"/>
+    <path stroke-width="400" fill="none" d="M 143383 -96901 L 139827 -93345" stroke="green" data-title="J2 / GND"/>
+    <path stroke-width="400" fill="none" d="M 139827 -93345 L 124460 -93345" stroke="green" data-title="J2 / GND"/>
+    <path stroke-width="250" fill="none" d="M 130238.5 -106426 L 129540 -107124.5" stroke="green" data-title="J3 / GND"/>
+    <path stroke-width="400" fill="none" d="M 124460 -93345 L 125539.5 -93345" stroke="green" data-title="J2 / GND"/>
+    <path stroke-width="250" fill="none" d="M 133032.5 -98425 L 124460 -98425" stroke="green" data-title="J2 / SCL"/>
+    <path stroke-width="250" fill="none" d="M 136779 -102171.5 L 133032.5 -98425" stroke="green" data-title="VIA / SCL"/>
+    <path stroke-width="250" fill="none" d="M 124460 -100965 L 130365.5 -100965" stroke="green" data-title="J2 / SDA"/>
+    <path stroke-width="250" fill="none" d="M 130365.5 -100965 L 134366 -104965.5" stroke="green" data-title="VIA / SDA"/>
+    <path stroke-width="250" fill="none" d="M 135509 -111125 L 137922 -108648.5" stroke="green" data-title="VIA / INT1"/>
+    <path stroke-width="250" fill="none" d="M 135509 -111125 L 124460 -111125" stroke="green" data-title="J2 / INT1"/>
+    <use x="124460" y="-93345" xlink:href="#tool-D11-pad-1001" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-95885" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-98425" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-100965" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-103505" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-106045" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-108585" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-111125" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-113665" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="124460" y="-116205" xlink:href="#tool-D12-pad-1002" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="129540" y="-109664.5" xlink:href="#tool-D13-pad-1003" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="129540" y="-107124.5" xlink:href="#tool-D14-pad-1004" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="136779" y="-102171.5" xlink:href="#tool-D15-pad-1005" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="134366" y="-104965.5" xlink:href="#tool-D15-pad-1005" fill="rgba(0, 0, 0, 0.5)"/>
+    <use x="137922" y="-108648.5" xlink:href="#tool-D15-pad-1005" fill="rgba(0, 0, 0, 0.5)"/>
+  </g>
+</svg>

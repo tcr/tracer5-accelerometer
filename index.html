@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<script src="http://code.jquery.com/jquery.min.js"></script>
+	<style>
+
+#frames iframe {
+	border: 0;
+	position: absolute;
+	top: 0; left: 0;
+	pointer-events: none;
+}
+
+#frames { 
+	width: 800px; height: 400px;
+	margin-right: 1em;	
+	position: relative;
+}
+
+	</style>
+</head>
+<body>
+<h1>schematic viewer demo</h1>
+<div id="frames" style="background: #666">
+	<iframe src="edge.svg" width="400" height="400" style="left: 400px; background: #888;"></iframe>
+	<div style="-webkit-filter: hue-rotate(-120deg);">
+	<iframe src="b_cu.svg" width="400" height="400" name='b_cu' style="left: 400px;"></iframe>
+</div>
+<iframe src="edge.svg" width="400" height="400"></iframe>
+	<iframe src="f_silk.svg" width="400" height="400" style="opacity: 0.4;"></iframe>
+	<iframe src="f_cu.svg" width="400" height="400" name='f_cu'></iframe>
+</div>
+
+	<h2 id="target"></h2>
+
+<script>
+function magic (name) {
+	var frame = window.frames[name];
+	return frame.document;
+}
+
+$('#frames').on('mousemove', function (e) {
+	var toptext = null;
+	['f_cu', 'b_cu'].some(function (name) {
+		var s = magic(name);
+		var path = s.elementFromPoint(e.clientX - $('iframe[name=' + name + ']').offset().left, e.clientY - $('iframe[name=' + name + ']').offset().top);
+		
+		if (toptext) {
+			var text = null;
+		} else {
+			var text = $(path).attr('data-title')
+		}
+		toptext = toptext || text || '';
+	});
+
+	[magic('f_cu'), magic('b_cu')].some(function (s) {
+		$('path', s).each(function () {
+			if (toptext && $(this).attr('data-title').replace(/.*\//) == toptext.replace(/.*\//)) {
+				$(this).attr('stroke', '#00cc00');
+			} else {
+				$(this).attr('stroke', 'green');
+			}
+		})
+	}) 
+
+	$('#target').text((toptext || '').split(/\s+/).reverse().join(' '));
+})
+
+magic('b_cu');
+magic('f_cu');
+</script>
+</body>
+</html>
